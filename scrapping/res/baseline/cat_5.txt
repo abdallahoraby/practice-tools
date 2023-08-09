@@ -1,0 +1,30 @@
+Array
+(
+    [Leadership] => الريادة
+    [Empowerment] => التمكين
+    [Honor] => الشرف
+    [Vision] => الرؤية
+    [Authentic] => الموثوقية
+    [Dominance] => الهيمنة
+    [Efficiency] => الكفاءة
+    [Experience] => الخبرة
+    [o] => الطالقة
+    [Significance] => األهمية
+    [Challenge] => التحدي
+    [Supremacy] => السيادة
+    [Heroism] => البطولة
+    [Control] => التحكم
+    [Awe] => الرهبة
+    [Majesty] => الجاللة
+    [Success] => النجاح
+    [Fierceness] => الشراسة
+    [Rigor] => الصرامة
+    [Strength] => الصالبة
+    [Cunning] => الدهاء
+    [Nerve] => الجرأة
+    [Energy] => الطاقة
+    [Bravery] => الشجاعة
+    [wisdom] => الحكمة
+    [Power] => القوة
+    [Logic] => المنطق
+)

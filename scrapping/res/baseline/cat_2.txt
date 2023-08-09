@@ -1,0 +1,51 @@
+Array
+(
+    [Benevolence] => اإلحسان
+    [Responsibility] => المسؤولية
+    [loyalty] => الوالء
+    [Diligence] => االجتهاد
+    [] => Charmingالسحر
+    [Carefulness] => الحذر
+    [Fairness] => االنصاف
+    [Economy] => االقتصاد
+    [Thrift] => التوفير
+    [Commitment] => االلتزام
+    [Consistency] => االستمرارية
+    [Mastery] => االتقان
+    [Perseverance] => المثابرة
+    [Giving] => العطاء
+    [Productivityاإلنتاجية] => 
+
+    [Achievement] => اإلنجاز
+    [Fortitude] => الثبات
+    [Impact] => األثر
+    [Confirmation] => التأكيد
+    [Assurance] => الضمان
+    [Duty] => الواجب
+    [work] => العمل
+    [Dependability] => االعتمادية
+    [Attentiveness] => االنتباه
+    [Focus] => التركيز
+    [Accuracy] => الدقة
+    [Keenness] => الحرص
+    [Watchfulness] => المراقبة
+    [Determination] => العزيمة
+    [Decisiveness] => الحسم
+    [Assertiveness] => الحزم
+    [Cleanliness] => النظافة
+    [Purity] => الطهارة
+    [Chastity] => العفة
+    [youthfulness] => النضارة
+    [Agility] => الرشاقة
+    [Elegance] => األناقة
+    [Beauty] => الجمال
+    [Activeness] => النشاط
+    [System] => النظام
+    [Organizing] => التنظيم
+    [Direction] => التوجيه
+    [Remembranceالتذكر] => 
+
+    [Charity] => الصدقة
+    [Subtlety] => البراعة
+    [Depth] => العمق
+)

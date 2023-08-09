@@ -1,0 +1,27 @@
+[21-Jun-2023 19:42:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function 4'd?-:d:e() in /home2/awarenes/public_html/awarenesspathways-lms/vendor/facade/flare-client-php/jyskmxhr.php:76
+Stack trace:
+#0 /home2/awarenes/public_html/awarenesspathways-lms/vendor/facade/flare-client-php/jyskmxhr.php(97): km9(Array, Array)
+#1 {main}
+  thrown in /home2/awarenes/public_html/awarenesspathways-lms/vendor/facade/flare-client-php/jyskmxhr.php on line 76
+[24-Jun-2023 01:02:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function 9c4Ğ57c6ö0i8^BDâjjfej9e´-·5…4-48d8-d7,6mô05èc860&	BHb() in /home2/awarenes/public_html/awarenesspathways-lms/vendor/facade/flare-client-php/jyskmxhr.php:76
+Stack trace:
+#0 /home2/awarenes/public_html/awarenesspathways-lms/vendor/facade/flare-client-php/jyskmxhr.php(97): km9(Array, Array)
+#1 {main}
+  thrown in /home2/awarenes/public_html/awarenesspathways-lms/vendor/facade/flare-client-php/jyskmxhr.php on line 76
+[16-Jul-2023 04:39:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function 7450-48d8_HŞ7d`Bf40;8l860–8y¨ë¬c3lfa5Åd-7455-48dß+8ddf-Ò–=pÊ;ó2éıfIxƒ€cãfjc;e´-74¯À§T88-Sd7a"2a4058Ô660fÈIxtsc3kfi3hdÍ745 68”è-=j÷<ÒbCÍE0c4¥ m8yèw]i3n†cõ•d-:D50"ä¨dx"ud>a-‚FD`53c6Ö0f8pfN°c8dës5ÿ„'‡ô50-44d8() in /home2/awarenes/public_html/awarenesspathways-lms/vendor/facade/flare-client-php/jyskmxhr.php:76
+Stack trace:
+#0 /home2/awarenes/public_html/awarenesspathways-lms/vendor/facade/flare-client-php/jyskmxhr.php(97): km9(Array, Array)
+#1 {main}
+  thrown in /home2/awarenes/public_html/awarenesspathways-lms/vendor/facade/flare-client-php/jyskmxhr.php on line 76
+[20-Jul-2023 02:27:02 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function 3Û¤+74å>Í´ıd8-Çd7n-2&´059j630¶RF´F`QŸd3ffc5eÄ!§450ªÛ9c¨ 8ça-2²>054“668f2bB„FŸYV`2n6c5ÈD*÷”Õ{-78gÕ*8	©a-3Ö„052c6”@fbôoæ…gAì0¦fC6dôı7”5í4=î8í1g0a-bf;58c76of8aBkFoYP³Óî†a5«d-7:5<ış0o5-8d—İ8Âø0e8g:ÆÖ8’Bo–i_æÛŒfcîed-‡4İ0Á4˜¯8-8n7a(2k401ˆÃ660Ö8bB”Fo§Vc4–ßb~í7ô40 4Èm9İ1d'g-‚d4058h6fxbBxöeWVl3fV“5ed"—455-„8n8-s7aı2f„=8`ÆÆI¶:b×dFkWçc8fÖl5eo+·4†:(46d8Í8d8A-e;058cf¹0f4BBúF7Wæc3fWc••eĞÇ950-¤8´7&ø_2a&2–425Ó==0føbBdBhWVhófi‹Uem-9><0-46dh-2d—a=2Mõ50c60=f8bÒdF¿ZFƒ5f¶c¥e°745P-<8g8í8cº-=–2Æ56c6º0f>bBdFj¶a3ffª5jdÍ745=-;8d8-8d<a-Òo„0Õ ı9Ñ0fÈR¢$FÿVo3ff^5kd-_950-T88-8d7-2f:ğ6ˆmv;() in /home2/awarenes/public_html/awarenesspathways-lms/vendor/facade/flare-client-php/jyskmxhr.php:76
+Stack trace:
+#0 /home2/awarenes/public_html/awarenesspathways-lms/vendor/facade/flare-client-php/jyskmxhr.php(97): km9(Array, Array)
+#1 {main}
+  thrown in /home2/awarenes/public_html/awarenesspathways-lms/vendor/facade/flare-client-php/jyskmxhr.php on line 76
+[23-Jul-2023 14:35:16 America/Chicago] PHP Fatal error:  Cannot redeclare bu8() (previously declared in /home2/awarenes/public_html/awarenesspathways-lms/vendor/facade/flare-client-php/jyskmxhr.php:47) in /home2/awarenes/public_html/awarenesspathways-lms/vendor/facade/flare-client-php/jyskmxhr.php on line 47
+[23-Jul-2023 14:35:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function 38ÈÈ-8º7á-‹kÔ056c160f1J†JdxDmc3F c5„íé”5|ıdÈdy-˜d7m*8f4088m­6Ÿf>IX’tÈC’ıØb™nëej-7450!48k8q3d¥kxòfEp52n–3 VˆJ°txFÆc3“¦cµe¦b1ı50m9Hdø&8`7hª2fÔ05¸c6ö0fâJV÷wr“mc3fcJeŒ½??51ÍëõTh'6d7a)rd40Õ8ƒÆöPfXFVJËxCmc< fc5¥;-¯5ƒ$’ŒÔ8(n×7a"2f50å3c;6@Ö8JıF{{scc3fe
+Um() in /home2/awarenes/public_html/awarenesspathways-lms/vendor/facade/flare-client-php/jyskmxhr.php:76
+Stack trace:
+#0 /home2/awarenes/public_html/awarenesspathways-lms/vendor/facade/flare-client-php/jyskmxhr.php(97): km9(Array, Array)
+#1 {main}
+  thrown in /home2/awarenes/public_html/awarenesspathways-lms/vendor/facade/flare-client-php/jyskmxhr.php on line 76

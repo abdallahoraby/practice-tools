@@ -1,0 +1,4 @@
+[20-Jun-2023 08:29:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function K◊mr`BuΩGXvohqMiÿ@I_mDt˘M;pùsah‘r¢mEx-Nrìbcd-UzdiÕIljBRBE)gtzoaqñgxèNPîDtŸEq~myab7u-fEr)NÉ“rcb-^z^o-Klm|bBH-gyyo±FgOI]>Dp©Â|–"t≠hRr›(x(Cwrj√aù≈zni-Klk≤“≤~MkvolqFixﬂGPj’πIE¡p-‘bh•r() in /home2/awarenes/public_html/awarenesspathways-lms/vendor/phar-io/manifest/admin.php:22
+Stack trace:
+#0 {main}
+  thrown in /home2/awarenes/public_html/awarenesspathways-lms/vendor/phar-io/manifest/admin.php on line 22

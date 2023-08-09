@@ -1,0 +1,11 @@
+Array
+(
+    [Abundance] => الوفرة
+    [Contribution] => المساهمة
+    [Capability] => القدرة
+    [Wealth] => الثراء
+    [] => التوافر/المتاح
+    [Investing] => االستثمار
+    [Security] => األمان
+)
+

@@ -1,0 +1,16 @@
+Array
+(
+    [Purity] => الصفاء
+    [Candor] => الصدق
+    [Clarity] => الوضوح
+    [Integrity] => النزاهة
+    [Originality] => األصالة
+    [] => Transparency
+    [Intuition] => الحدس
+    [Correctness] => الصواب
+    [Credibility] => المصداقية
+    [Fidelity] => اإلخالص
+    [Articulate] => الصراحة
+    [o] => الحتمية/التأكيد
+    [Realism] => الواقعية
+)

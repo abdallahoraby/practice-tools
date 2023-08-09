@@ -1,0 +1,260 @@
+تصنيف القيم :
+• الوفرة : Abundance
+Abundance .الوفرة. 1
+Contribution المساهمة. 2
+Capability القدرة. 3
+Wealth .الثراء. 4
+5 .تعدد المصادر. Resourceful
+Investing .االستثمار. 6
+7 .التوافر/المتاح. Availability
+Security .األمان. 8
+• اإلحسان/ Benevolence: 
+Benevolence .اإلحسان. 1
+Responsibility .المسؤولية. 2
+loyalty .الوالء. 3
+Diligence .االجتهاد. 4
+ Dedication التفاني. 5
+Carefulness .الحذر. 6
+ Justice العدالة. 7
+Fairness .االنصاف. 8
+Economy .االقتصاد. 9
+Thrift .التوفير. 10
+Commitment .االلتزام. 11
+Consistency .االستمرارية. 12
+Mastery .االتقان. 13
+Perseverance المثابرة. 14
+Giving .العطاء. 15
+ Completion اإلكمال. 16
+17 .التديّن. Religiousness
+Productivityاإلنتاجية. 18
+Achievement .اإلنجاز. 19
+Fortitude .الثبات. 20
+Impact .األثر. 21
+Confirmation التأكيد. 22
+Assurance الضمان. 23
+Duty الواجب. 24
+work العمل. 25
+Dependability .االعتمادية. 26
+Attentiveness .االنتباه. 27
+Focus .التركيز. 28
+Accuracy .الدقة. 29
+Keenness .الحرص. 30
+Watchfulness .المراقبة. 31
+Determination .العزيمة. 32
+Decisiveness .الحسم. 33
+Assertiveness .الحزم. 34
+Cleanliness .النظافة. 35
+Purity .الطهارة. 36
+Chastity .العفة. 37
+youthfulness .النضارة. 38
+Agility الرشاقة. 39
+Elegance .األناقة. 40
+Beauty .الجمال. 41
+Activeness .النشاط. 42
+System .النظام. 43
+Organizing .التنظيم. 44
+Direction .التوجيه. 45
+ Memorizing الحفظ. 46
+Remembranceالتذكر. 47
+Charity .الصدقة. 48
+49 .العمل الخيري. Charity
+Subtlety البراعة. 50
+ Charmingالسحر. 51
+Depth .العمق. 52
+• العالقات /Relationships: 
+Friendliness .الود o
+Love .الحب o
+Kindness .اللطف o
+Warmth .الدفء o
+Altruism .اإليثار o
+Belonging .االنتماء o
+Affection .العاطفة o
+Sensitivity .الحساسية o
+Friendship الصداقة o
+Gentle الوداعة o
+Tenderness .الرقة o
+Intimacy .الحميمية o
+• النمو / Growth
+Growth .النمو o
+Innovation االبتكار o
+Discovery االستكشاف o
+Awareness .الوعي o
+Uniqueness .التفرد o
+Maturity النضج o
+Ambition .الطموح o
+Developmentالتطور o
+Imagination .الخيال o
+Inspiration .االلهام o
+Anticipation .التوقع o
+Quality الجودة o
+o البناء. الهيكلية Structure
+ Learning التعلم o
+Education .التعليم o
+Transcendence التفوق o
+Knowledge .المعرفة o
+Curiosity .الفضول o
+Excellence التميز o
+Brilliance التألق o
+Alertness .اليقظة o
+Perception اإلدراك o
+Attentiveness .االنتباه o
+Motivation التحفيز o
+Effectiveness .الفاعلية o
+Determination .العزم o
+Variety .التنوع o
+o التغيّر Variation
+Strangeness الغرابة o
+Desire .الرغبة o
+Winning .الفوز o
+Wonder .التساؤل o
+Motivation .التحفيز o
+Creativity .االبداع o
+Flow .التدفق o
+Maturity .النضوج o
+Making A Difference .فرق احداث o
+Being the best األفضل تكون أن o
+Prosperity االزدهار o
+ Renovation التجديد o
+Change التغيير o
+Cleverness .الذكاء o
+Skillfulness .المهارة o
+Professional .االحترافية o
+Fashion .الموضة o
+• القيادة / Leadership: 
+Leadership القيادة o
+Empowerment التمكين o
+Honor .الشرف o
+Vision .الرؤية o
+Authentic الموثوقية o
+Dominance .الهيمنة o
+Efficiency .الكفاءة o
+Experience .الخبرة o
+o الثقة بالنفس. Confidence
+Significance .األهمية o
+Challenge .التحدي o
+Supremacy .السيادة o
+Heroism .البطولة o
+Leadership .الريادة o
+Control .التحكم o
+Awe .الرهبة o
+Majesty .الجاللة o
+Success .النجاح o
+Fierceness .الشراسة o
+Rigor .الصرامة o
+Strength .الصالبة o
+Cunning الدهاء o
+Nerve .الجرأة o
+Energy .الطاقة o
+Bravery .الشجاعة o
+wisdom الحكمة o
+o الطالقة بالحديث Fluency
+Power .القوة o
+Logic .المنطق o
+• التواصل Connection
+Connection .التواصل o
+Care .الرعاية o
+Hospitality .الضيافة o
+Humility التواضع o
+Appreciation .التقدير o
+Contribution .المساهمة o
+Cooperation التعاون o
+Compassion .التعاطف o
+Kindness العطف o
+Generosity الكرم o
+Adventure .المغامرة o
+o العمل الجماعي. Teamwork
+Temperance .التآزر o
+Sacrifice التضحية o
+Aggressive .الشدة o
+ Harmony التفاهم o
+Understanding .التفهم o
+Sharing .المشاركة o
+Persuasive .االقناع o
+ Humor الفكاهة o
+Excitement .اإلثارة o
+Expressive .التعبير o
+Amusement .التسلية o
+Attractiveness .الجاذبية o
+Zeal .الحماسية o
+o خفة الظل. Humor
+Fame .الشهرة o
+Fascination .االبهار o
+o االنتشاء/ الفرح بفخر Elation 
+Respect .االحترام o
+Harmony .االنسجام o
+Enjoyment .االستمتاع o
+Cunning .المكر o
+Encouraging .التشجيع o
+Courtesy .المجاملة o
+Mysterious .الغموض o
+Introversion .االنطوائية o
+Vitality .الحيوية o
+Congruency .التوافق o
+Modesty .الحياء o
+Solitude .العزلة o
+Simplicity .البساطة o
+Thankfulness .الشكر o
+• الحرية. Liberty
+Liberty .الحرية o
+Resilience .المرونة o
+Independence .االستقاللية o
+o القدرة على التحمل. Endurance
+ openness االنفتاح o
+Adaptability .التكيف o
+speed .السرعة o
+Agility .اللياقة o
+Dignity الكرامة o
+Privacy .الخصوصية o
+• السالم الداخلي/ Peace Inner
+Peace السالم o
+Trust .الثقة o
+Acceptance .القبول o
+Permit .السماح o
+Patience الصبر o
+Love الحب o
+Mercy الرحمة o
+Happiness .السعادة o
+o الهدوء و السكينة. Tranquility
+Gratitude .االمتنان o
+Delight .المرح o
+Conviction .القناعة o
+Elation .الفرح o
+Solitude .الخلوة o
+Presence .الحضور o
+ Tranquility الطمأنينة o
+Virtue .الفضيلة o
+Soundness .السالمة o
+Contentment .الرضا o
+Spontaneity .العفوية o
+Balance .التوازن o
+Poise االتزان o
+Relaxation .االسترخاء o
+Spirituality .الروحانية o
+Stability .االستقرار o
+Tolerance التسامح o
+Conviction .القناعة o
+Humility .التواضع o
+Dignity .الكرامة o
+Optimism .التفاؤل o
+ Peace of mind البال راحة o
+ convalescence التشافي o
+Cheerfulness .البهجة o
+Giving .العطاء o
+Insightful .البصيرة o
+Comfort .الراحة o
+Meekness .الوداعة o
+Mellowness .الرقة o
+• الوضوح / Clarity
+Purity الصفاء o
+Candor الصدق o
+Clarity .الوضوح o
+Integrity .النزاهة o
+Originality .األصالة o
+ Transparency الشفافية o
+Intuition .الحدس o
+Correctness .الصواب o
+Credibility .المصداقية o
+Fidelity .اإلخالص o
+Articulate .الصراحة o
+o الحتمية/التأكيد. Certainty
+Realism .الواقعية o

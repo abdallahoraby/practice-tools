@@ -1,0 +1,13 @@
+Array
+(
+    [Liberty] => الحرية
+    [Resilience] => المرونة
+    [Independence] => االستقاللية
+    [o] => القدرة
+    [] => openness
+    [Adaptability] => التكيف
+    [speed] => السرعة
+    [Agility] => اللياقة
+    [Dignity] => الكرامة
+    [Privacy] => الخ
+)

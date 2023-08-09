@@ -1,0 +1,45 @@
+Array
+(
+    [Growth] => النمو
+    [Innovation] => االبتكار
+    [Discovery] => االستكشاف
+    [Awareness] => الوعي
+    [Uniqueness] => التفرد
+    [Maturity] => النضوج
+    [Ambition] => الطموح
+    [Developmentالتطور] => o
+
+    [Imagination] => الخيال
+    [Inspiration] => االلهام
+    [Anticipation] => التوقع
+    [Quality] => الجودة
+    [o] => التغيّر
+    [] => 
+    [Education] => التعليم
+    [Transcendence] => التفوق
+    [Knowledge] => المعرفة
+    [Curiosity] => الفضول
+    [Excellence] => التميز
+    [Brilliance] => التألق
+    [Alertness] => اليقظة
+    [Perception] => اإلدراك
+    [Attentiveness] => االنتباه
+    [Motivation] => التحفيز
+    [Effectiveness] => الفاعلية
+    [Determination] => العزم
+    [Variety] => التنوع
+    [Strangeness] => الغرابة
+    [Desire] => الرغبة
+    [Winning] => الفوز
+    [Wonder] => التساؤل
+    [Creativity] => االبداع
+    [Flow] => التدفق
+    [Making] => A
+    [Being] => the
+    [Prosperity] => االزدهار
+    [Change] => التغيير
+    [Cleverness] => الذكاء
+    [Skillfulness] => المهارة
+    [Professional] => االحترافية
+    [Fashion] => الموضة
+)

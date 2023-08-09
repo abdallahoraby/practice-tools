@@ -1,0 +1,32 @@
+@media (max-width: 767px) {
+    
+    
+    .tool-wrapper {
+        flex-flow: column;
+    }
+    
+    .page-header.ml-3.col-2 {
+        width: 100% !important;
+        max-width: 100%;
+    }
+    
+    ol.breadcrumb {
+        flex-flow: wrap !important;
+    }
+    
+    .col-xl-10.col-lg-10.col-md-10.col-10.layout-top-spacing.layout-spacing {
+        width: 100% !important;
+        max-width: 100% !important;
+    }
+    
+    
+    .tool-main-wrapper {
+        flex-flow: column;
+        padding: 2rem;
+    }
+    
+    
+    
+    
+    
+}

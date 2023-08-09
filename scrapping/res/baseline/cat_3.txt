@@ -1,0 +1,16 @@
+Array
+(
+    [Friendliness] => الود
+    [Love] => الحب
+    [Kindness] => اللطف
+    [Warmth] => الدفء
+    [Altruism] => اإليثار
+    [Belonging] => االنتماء
+    [Affection] => العاطفة
+    [Sensitivity] => الحساسية
+    [Friendship] => الصداقة
+    [Gentle] => الوداعة
+    [Tenderness] => الرقة
+    [Intimacy] => الحميمية
+    [] => 
+)

@@ -1,0 +1,178 @@
+html {
+    position: relative;
+}
+
+body {
+    background: #edf0f2;
+    font-family: 'Poppins', sans-serif;
+}
+
+#content {
+    margin-top: 0
+}
+
+@media (min-width: 992px) {
+    .alt-click-menu .topbar-nav.header nav#topbar ul.menu-categories li.menu .submenu {
+        position: absolute;
+        top: 56px;
+        left: 0;
+        right: auto;
+        background-color: #fff;
+        color: #0e1726;
+        border: 1px solid #e0e6ed;
+        text-align: left;
+        margin-right: auto;
+        margin-left: auto;
+        border-radius: 4px;
+        box-shadow: 0 1.5rem 4rem rgb(22 28 45 / 15%);
+        transform: translateY(0em);
+        transition: all 0.3s ease-in-out 0s, visibility 0s linear 0.3s, z-index 0s linear 0.01s;
+        visibility: visible;
+        opacity: 1;
+        height: auto !important;
+    }
+
+    .alt-click-menu .topbar-nav.header nav#topbar ul.menu-categories li.menu .submenu.collapse:not(.show) {
+        display: none;
+    }
+
+    .alt-click-menu .topbar-nav.header nav#topbar ul.menu-categories li.menu .submenu.collapsing {
+        -webkit-transition: none;
+        transition: none;
+        display: none;
+    }
+
+    .alt-click-menu .topbar-nav.header nav#topbar ul.menu-categories li.menu .submenu .sub-sub-submenu-list .sub-submenu {
+        position: absolute;
+        top: -10px;
+        background-color: #fff;
+        color: #888ea8;
+        text-align: left;
+        box-shadow: 0px 20px 20px rgb(126 142 177 / 12%);
+        border: 1px solid #e0e6ed;
+        left: auto;
+        right: -200px;
+        min-width: 160px;
+        width: 200px;
+        padding: 12px 0;
+        border-radius: 6px;
+    }
+
+    .alt-click-menu .topbar-nav.header nav#topbar ul.menu-categories li.menu .submenu .sub-sub-submenu-list:hover ul.sub-submenu {
+        display: block;
+    }
+}
+
+.widget-one h6 {
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 0px;
+    margin-bottom: 22px;
+}
+
+.widget-one p {
+    font-size: 15px;
+    margin-bottom: 0;
+}
+
+.med-flex {
+    display: flex;
+    justify-content: center;
+    align-content: center
+}
+
+.force-center {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+
+.practices {
+    padding-left: 20px;
+    padding-right: 6px;
+}
+
+.breadcrumb-two .breadcrumb li.active a:after {
+    border-left-color: #26255D;
+}
+
+.breadcrumb-two .breadcrumb li.active a {
+    background: #26255D;
+}
+
+.btn-info {
+    background-color: #26255D;
+    border-color: #26255D;
+    box-shadow: 0 10px 20px -10px #26255D;
+}
+
+.btn-info:hover, .btn-info:focus {
+    background-color: #26255D;
+    border-color: #26255D;
+}
+
+.btn-info:active, .btn-info.active {
+    background-color: #26255D;
+    border-top: 1px solid #26255D;
+}
+
+.btn-info:not(:disabled):not(.disabled).active, .btn-info:not(:disabled):not(.disabled):active {
+    background-color: #26255D;
+    border-color: #26255D;
+}
+
+.show>.btn-info.dropdown-toggle {
+    background-color: #26255D;
+    border-color: #26255D;
+}
+
+.btn-info.disabled, .btn-info.btn[disabled], .btn-info:disabled {
+    background-color: #26255D;
+    border-color: #26255D;
+}
+
+.btn-info.active.focus, .btn-info.active:focus, .btn-info.active:hover {
+    background-color: #26255D;
+    border-color: #26255D;
+}
+
+.btn-info.focus:active {
+    background-color: #26255D;
+    border-color: #26255D;
+}
+
+.btn-info:active:focus, .btn-info:active:hover {
+    background-color: #26255D;
+    border-color: #26255D;
+}
+
+.open>.dropdown-toggle.btn-info.focus, .open>.dropdown-toggle.btn-info:focus, .open>.dropdown-toggle.btn-info:hover {
+    background-color: #26255D;
+    border-color: #26255D;
+}
+
+.pointer {
+    cursor: pointer;
+}
+.toolTitle{
+    font-weight: 400;
+    font-size: 59px;
+    /* border-bottom: 2px solid;
+    width: fit-content;
+    padding-bottom: 12px; */
+}
+
+.btn-medany {
+    background-color: #f8538d;
+    border-color: #f8538d;
+    color: white;
+    box-shadow: 0 10px 20px -10px #f8538d;
+}
+
+.btn-medany:hover, .btn-medany:focus {
+    background-color: #f8538d;
+    border-color: #f8538d;
+    color: white;
+
+}

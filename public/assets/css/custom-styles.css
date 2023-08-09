@@ -1,0 +1,187 @@
+/******* New Styles *******/
+
+
+/*.card.component-card_1 {*/
+/*    background: url(https://lms.awarenesspathways.com/images/tools-bg.jpg);*/
+/*    min-height: 80vh;*/
+/*    background-position: center;*/
+/*    background-repeat: no-repeat;*/
+/*    background-size: cover;*/
+/*}*/
+
+/*.component-card_1 .card-body {*/
+/*    display: flex;*/
+/*    flex-flow: column;*/
+/*    justify-content: space-evenly;*/
+/*    background: #611d2694;*/
+/*}*/
+
+/*.component-card_1 .card-body * {*/
+/*    color: #fff ;*/
+/*}*/
+
+/*.component-card_1 .card-body button {*/
+/*    width: fit-content !important;*/
+/*    padding: 0.7rem 3rem;*/
+/*    border-radius: 50px;*/
+/*    background: #982837;*/
+/*    border-color: #982837;*/
+/*    font-weight: 600;*/
+/*    font-size: 1rem;*/
+/*}*/
+
+
+.breadcrumb-two .breadcrumb {
+    display: flex;
+    flex-flow: column;
+    gap: 1rem;
+}
+
+.row.main-content {
+    flex-flow: column;
+}
+
+li.breadcrumb-item.sub-item:before, li.breadcrumb-item.sub-item:after {
+    display: none;
+}
+
+li.breadcrumb-item.sub-item.active {
+    background: #C1DDFD;
+    padding: 0.3rem 1rem;
+    border-radius: 5px;
+    color: #000;
+}
+
+.practices {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.baseline-main {
+    background-color: #611d26ad;
+    background-image: url(../img/single-tool-bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    padding: 3rem;
+}
+
+
+h2.toolTitle {
+    font-size: 2rem;
+    margin: 3rem auto;
+    text-align: center;
+}
+
+.layout-px-spacing {
+    padding: 0 !important;
+}
+
+.tool-wrapper {
+    display: flex;
+    background: #fff;
+    padding: 2rem;
+    border-radius: 20px;
+}
+
+.breadcrumb-two .breadcrumb li a {
+    background: transparent;
+}
+
+.breadcrumb-two .breadcrumb li a:before, .breadcrumb-two .breadcrumb li a:after {
+    display: none;
+}
+
+
+.component-card_1 {
+    box-shadow: unset !important;
+    border: 1px solid #e0e6ed;
+    border-radius: 15px;
+}
+
+.baseline .component-card_1 .card-body {
+    overflow-y: scroll;
+    height: 75vh;
+}
+
+
+.baseline-main h1 {
+    text-align: center;
+    color: #fff;
+}
+
+
+.baseline-main .p-4.text-left.mb-3 * {
+    color: #fff;
+    text-align: center !important;
+}
+
+
+.baseline-main span.text-danger.font-weight-bold {
+    text-align: center !important;
+    width: 100%;
+    display: block;
+    color: #fff !important;
+}
+
+
+div#content {
+    max-width: 100% !important;
+}
+
+.tool-main-wrapper {
+    flex-flow: row;
+    padding: 2rem 5rem;
+    background-color: #611d26ad;
+    background-image: url(../img/single-tool-bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: soft-light;
+}
+
+.row.tool-main-wrapper .page-header.col-2.ml-3.w-100 {
+    display: none;
+}
+
+.row.tool-main-wrapper .col-10.layout-top-spacing.layout-spacing {
+    max-width: 100% !important;
+    width: 100% !important;
+    flex: 100%;
+}
+
+.row.tool-main-wrapper .card.component-card_1 {
+    background: transparent;
+    border: 0;
+}
+
+
+.row.tool-main-wrapper .card.component-card_1 * {
+    color: #fff !important;
+    text-align: center !important;
+}
+
+
+
+.tool-main-wrapper button.btn.w-50.btn-info.mb-2 {
+    width: fit-content !important;
+    background: #982837;
+    font-weight: 600;
+    font-size: 1rem;
+    border-color: #982837;
+    border-radius: 100px;
+    padding: 0.6rem 3rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
